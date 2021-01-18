@@ -1,0 +1,16 @@
+﻿version: '3.9'
+services:
+  dbserver:
+    image: "mcr.microsoft.com/mssql/server"
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_USER: "abc"
+      SA_PASSWORD: "MyNewPa55word"
+    ports:
+      - "1433:1433"
+  greet-api:
+    build: .
+    ports:
+      - "5001:80"
+    depends_on:
+      - dbserver

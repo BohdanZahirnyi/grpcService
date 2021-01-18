@@ -1,0 +1,96 @@
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.exe
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.deps.json
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.runtimeconfig.json
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.runtimeconfig.dev.json
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.pdb
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.csprojAssemblyReference.cache
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.AssemblyInfoInputs.cache
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.AssemblyInfo.cs
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.csproj.CoreCompileInputs.cache
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.RazorTargetAssemblyInfo.cache
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.csproj.CopyComplete
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\staticwebassets\GrpcService.StaticWebAssets.Manifest.cache
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\staticwebassets\GrpcService.StaticWebAssets.xml
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.pdb
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.genruntimeconfig.cache
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bzahi\RiderProjects\GrpcService\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.exe
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.deps.json
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.runtimeconfig.json
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.runtimeconfig.dev.json
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\GrpcService.pdb
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.csprojAssemblyReference.cache
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.AssemblyInfoInputs.cache
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.AssemblyInfo.cs
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.csproj.CoreCompileInputs.cache
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.RazorTargetAssemblyInfo.cache
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.csproj.CopyComplete
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\staticwebassets\GrpcService.StaticWebAssets.Manifest.cache
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\staticwebassets\GrpcService.StaticWebAssets.xml
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.dll
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.pdb
+C:\Users\bzahi\RiderProjects\New folder\GrpcService\obj\Debug\netcoreapp3.1\GrpcService.genruntimeconfig.cache
