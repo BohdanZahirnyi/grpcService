@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using GrpcService.Implementations;
 using GrpcService.Interfaces;
 using GrpcService.Models;
+using GrpcService.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -23,7 +24,7 @@ namespace GrpcService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddGrpc();
-            const string connectionString = "dbserver;Database=UsersDB;User=abc;Password=MyNewPa55word";
+            const string connectionString = "Server=dbserver;Database=UsersDB;User=abc;Password=MyNewPa55word";
             services.AddTransient<IRepo<User>, UserRepo>(provider => new UserRepo(connectionString));
         }
 

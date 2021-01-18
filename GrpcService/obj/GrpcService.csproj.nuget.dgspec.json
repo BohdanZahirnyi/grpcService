@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bzahi\\RiderProjects\\New folder\\GrpcService\\GrpcService.csproj": {}
+    "C:\\Users\\bzahi\\Desktop\\repo\\GrpcService\\GrpcService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bzahi\\RiderProjects\\New folder\\GrpcService\\GrpcService.csproj": {
+    "C:\\Users\\bzahi\\Desktop\\repo\\GrpcService\\GrpcService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bzahi\\RiderProjects\\New folder\\GrpcService\\GrpcService.csproj",
+        "projectUniqueName": "C:\\Users\\bzahi\\Desktop\\repo\\GrpcService\\GrpcService.csproj",
         "projectName": "GrpcService",
-        "projectPath": "C:\\Users\\bzahi\\RiderProjects\\New folder\\GrpcService\\GrpcService.csproj",
+        "projectPath": "C:\\Users\\bzahi\\Desktop\\repo\\GrpcService\\GrpcService.csproj",
         "packagesPath": "C:\\Users\\bzahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bzahi\\RiderProjects\\New folder\\GrpcService\\obj\\",
+        "outputPath": "C:\\Users\\bzahi\\Desktop\\repo\\GrpcService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bzahi\\AppData\\Roaming\\NuGet\\NuGet.Config",

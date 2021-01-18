@@ -1,13 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Grpc.Core;
 using GrpcService.Interfaces;
 using GrpcService.Models;
 using Microsoft.Extensions.Logging;
 
-namespace GrpcService
+namespace GrpcService.Services
 {
     public class GreeterService : Greeter.GreeterBase
     {
