@@ -10,8 +10,8 @@ namespace GrpcService.Implementations
 {
     public class UserRepo : IRepo<User>
     {
-        private const string getAllUsers = "SELECT * FROM Users";
-        private const string getUserById = "SELECT * FROM Users WHERE Id = @id";
+        private const string getAllUsers = "SELECT * FROM person";
+        private const string getUserById = "SELECT * FROM person WHERE Id = @id";
         readonly string connectionString = null;
 
         public UserRepo(string conn)

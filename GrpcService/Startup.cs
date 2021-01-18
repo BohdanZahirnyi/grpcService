@@ -24,7 +24,7 @@ namespace GrpcService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddGrpc();
-            const string connectionString = "Server=dbserver;Database=UsersDB;User=abc;Password=MyNewPa55word";
+            const string connectionString = "Server=localhost,1433;Database=master;User=SA;Password=MyNewPa55word";
             services.AddTransient<IRepo<User>, UserRepo>(provider => new UserRepo(connectionString));
         }
 

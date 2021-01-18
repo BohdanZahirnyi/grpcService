@@ -28,10 +28,9 @@ namespace GrpcService.Services
         public override Task<ReturnUserById> GetById(GetUserById request, ServerCallContext context)
         {
             var name = _repo.Get(request.Id).Name;
-            var secondName = _repo.Get(request.Id).SecondName;
             return Task.FromResult(new ReturnUserById
             {
-                Message = $"Hello, {name},{secondName}!"
+                Message = $"Hello, {name}!"
             });
         }
     }
