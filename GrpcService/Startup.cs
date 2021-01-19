@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using GrpcService.Implementations;
+﻿using GrpcService.Implementations;
 using GrpcService.Interfaces;
 using GrpcService.Models;
 using GrpcService.Services;
@@ -16,15 +12,13 @@ namespace GrpcService
 {
     public class Startup
     {
-        /*SA_PASSWORD: "MyNewPa55word"
-            User:abc;*/
-        
+
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddGrpc();
-            const string connectionString = "Server=localhost,1433;Database=master;User=SA;Password=MyNewPa55word";
+            const string connectionString = "Server=dbserver,1433;Database=master;User=SA;Password=MyNewPa55word";
             services.AddTransient<IRepo<User>, UserRepo>(provider => new UserRepo(connectionString));
         }
 
